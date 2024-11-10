@@ -2,9 +2,6 @@
 
 **`README.md` para `java-even-odd`**
 
-
-# Java Even/Odd Checker
-
 Este repositorio contiene un programa en Java que verifica si un número dado es par o impar.
 
 ## Descripción
@@ -61,8 +58,6 @@ Este repositorio está disponible bajo la Licencia MIT.
 # **Java Even/Odd Checker**
 
 **`README.md` for `java-even-odd`**
-
-## Java Even/Odd Checker
 
 This repository contains a Java program that checks if a given number is even or odd.
 
