@@ -1,4 +1,4 @@
-### **Java Even/Odd Checker**
+# **Java Even/Odd Checker**
 
 **`README.md` para `java-even-odd`**
 
@@ -48,9 +48,9 @@ docker tag java-even-odd <tu-usuario>/java-even-odd:latest
 docker push <tu-usuario>/java-even-odd:latest
 ```
 ## Enlace al Docker Hub
-Java Even/Odd Checker en Docker Hub
+Java Even/Odd Checker en Docker Hub(https://hub.docker.com/repository/docker/alex8991/java-even-odd/general)
 
-# Licencia
+### Licencia
 Este repositorio está disponible bajo la Licencia MIT.
 
 *Recuerda reemplazar `<tu-usuario>` con tu nombre de usuario de GitHub o Docker Hub. Este archivo `README.md` proporciona todos los pasos e información necesaria para clonar, ejecutar, y dockerizar el proyecto.*
@@ -58,11 +58,11 @@ Este repositorio está disponible bajo la Licencia MIT.
 
 
 
-### **Java Even/Odd Checker**
+# **Java Even/Odd Checker**
 
 **`README.md` for `java-even-odd`**
 
-# Java Even/Odd Checker
+## Java Even/Odd Checker
 
 This repository contains a Java program that checks if a given number is even or odd.
 
@@ -106,10 +106,10 @@ docker tag java-even-odd <your-user>/java-even-odd:latest
 ```bash
 docker push <your-user>/java-even-odd:latest
 ```
-## Link to Docker Hub
-Java Even/Odd Checker on Docker Hub
+### Link to Docker Hub
+Java Even/Odd Checker on Docker Hub (https://hub.docker.com/repository/docker/alex8991/java-even-odd/general)
 
-# License
+### License
 This repository is available under the MIT License.
 
 *Remember to replace `<your-user>` with your GitHub or Docker Hub username. This `README.md` file provides all the steps and information needed to clone, run, and dockerize the project.*
