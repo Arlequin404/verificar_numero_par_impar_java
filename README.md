@@ -47,10 +47,10 @@ docker tag java-even-odd <tu-usuario>/java-even-odd:latest
 ```bash
 docker push <tu-usuario>/java-even-odd:latest
 ```
-##Enlace al Docker Hub
+## Enlace al Docker Hub
 Java Even/Odd Checker en Docker Hub
 
-#Licencia
+# Licencia
 Este repositorio está disponible bajo la Licencia MIT.
 
 *Recuerda reemplazar `<tu-usuario>` con tu nombre de usuario de GitHub o Docker Hub. Este archivo `README.md` proporciona todos los pasos e información necesaria para clonar, ejecutar, y dockerizar el proyecto.*
@@ -106,10 +106,10 @@ docker tag java-even-odd <your-user>/java-even-odd:latest
 ```bash
 docker push <your-user>/java-even-odd:latest
 ```
-##Link to Docker Hub
+## Link to Docker Hub
 Java Even/Odd Checker on Docker Hub
 
-#License
+# License
 This repository is available under the MIT License.
 
 *Remember to replace `<your-user>` with your GitHub or Docker Hub username. This `README.md` file provides all the steps and information needed to clone, run, and dockerize the project.*
