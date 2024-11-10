@@ -45,7 +45,7 @@ docker tag java-even-odd <tu-usuario>/java-even-odd:latest
 docker push <tu-usuario>/java-even-odd:latest
 ```
 ## Enlace al Docker Hub
-Java Even/Odd Checker en Docker Hub(https://hub.docker.com/repository/docker/alex8991/java-even-odd/general)
+Java Even/Odd Checker en Docker Hub https://hub.docker.com/repository/docker/alex8991/java-even-odd/general
 
 ### Licencia
 Este repositorio está disponible bajo la Licencia MIT.
@@ -102,7 +102,7 @@ docker tag java-even-odd <your-user>/java-even-odd:latest
 docker push <your-user>/java-even-odd:latest
 ```
 ### Link to Docker Hub
-Java Even/Odd Checker on Docker Hub (https://hub.docker.com/repository/docker/alex8991/java-even-odd/general)
+Java Even/Odd Checker on Docker Hub https://hub.docker.com/repository/docker/alex8991/java-even-odd/general
 
 ### License
 This repository is available under the MIT License.
